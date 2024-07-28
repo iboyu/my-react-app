@@ -6,6 +6,9 @@ function Counter() {
   function handleIncrement() {
     // count++;
     setCount(count + 1);
+    // setCount((n) => n + 1); --update function
+    // setCount((n) => n + 1);
+    // setCount((n) => n + 1);
   }
   return (
     <>
